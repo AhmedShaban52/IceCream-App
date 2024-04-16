@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    overflow-x: hidden;
+    font-family: 'Raleway', sans-serif;
+}
+.font-family{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.slick-slide > div{
+  margin: 0 10px;
+}
+
+.slick-prev:before, .slick-next:before{
+  color: #ac9784 !important;
+}
+.throw-decoration{
+  text-decoration: line-through;
+  color: rgb(106, 106, 106);
+}
+.shopping-cart{
+    border: 1px solid;
+    padding: 8px;
+    border-radius: 20px;
+}
+.shopping-cart:hover{
+    border: 1px solid rgba(108,113,56,.5);
+}
+
+.new{
+  background-color: red;
+  
+}
+.red{
+  color: red;
+}
+.custom-border{
+  border-radius: 25px;
+  border: 1px solid rgba(108,113,56,.5);
+}
+
+
+
+
+
+

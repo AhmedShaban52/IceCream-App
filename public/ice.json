@@ -1,0 +1,50 @@
+[
+        {
+            "id":1,
+            "title":"Coffee Ice Cream",
+            "price":"60.57",
+            "offer":"30.48",
+            "description":"adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimveniam, quis nostrud",
+            "image":"images/ice-1.png"
+        },
+        {
+            "id":2,
+            "title":"Mix Ice Cream",
+            "price":"75.89",
+            "offer":"35.78",
+            "description":"adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimveniam, quis nostrud",
+            "image":"images/ice-2.png"
+        }, 
+        {
+            "id":3,
+            "title":"Fruit Ice Cream",
+            "price":"70.69",
+            "offer":"30.56",
+            "description":"adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimveniam, quis nostrud",
+            "image":"images/ice-3.png"
+        },
+        {
+            "id":4,
+            "title":"Coffee Ice Cream",
+            "price":"65.148",
+            "offer":"25.48",
+            "description":"adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimveniam, quis nostrud",
+            "image":"images/ice-4.png"
+        },
+        {
+            "id":5,
+            "title":"Mix Ice Cream",
+            "price":"50.87",
+            "offer":"20.87",
+            "description":"adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimveniam, quis nostrud",
+            "image":"images/ice-5.png"
+        }, 
+        {
+            "id":6,
+            "title":"Fruit Ice Cream",
+            "price":"70.48",
+            "offer":"45.58",
+            "description":"adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimveniam, quis nostrud",
+            "image":"images/ice-6.png"
+        }
+]
